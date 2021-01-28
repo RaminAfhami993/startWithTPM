@@ -1,0 +1,23 @@
+{
+  "name": "startWithTPM",
+  "version": "1.0.0",
+  "description": "start with TPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaminAfhami993/startWithTPM.git"
+  },
+  "keywords": [],
+  "author": "Ramin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaminAfhami993/startWithTPM/issues"
+  },
+  "homepage": "https://github.com/RaminAfhami993/startWithTPM#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
